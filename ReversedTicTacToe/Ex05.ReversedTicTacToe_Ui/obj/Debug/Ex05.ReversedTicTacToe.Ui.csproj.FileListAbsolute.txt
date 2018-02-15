@@ -1,0 +1,14 @@
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\bin\Debug\Ex05.ReversedTicTacToe_Ui.exe.config
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\bin\Debug\Ex05.ReversedTicTacToe_Ui.exe
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\bin\Debug\Ex05.ReversedTicTacToe_Ui.pdb
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\bin\Debug\Ex05.ReversedTicTacToe.Logic.dll
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\bin\Debug\Ex05.ReversedTicTacToe.Logic.pdb
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\bin\Debug\Ex05.ReversedTicTacToe.Logic.dll.config
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\obj\Debug\Ex05.ReversedTicTacToe.Ui.csprojResolveAssemblyReference.cache
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\obj\Debug\Ex05.ReversedTicTacToe_Ui.GameBoardForm.resources
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\obj\Debug\Ex05.ReversedTicTacToe_Ui.GameSettingsForm.resources
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\obj\Debug\Ex05.ReversedTicTacToe_Ui.Properties.Resources.resources
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\obj\Debug\Ex05.ReversedTicTacToe.Ui.csproj.GenerateResource.Cache
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\obj\Debug\Ex05.ReversedTicTacToe.Ui.csproj.CoreCompileInputs.cache
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\obj\Debug\Ex05.ReversedTicTacToe_Ui.exe
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe_Ui\obj\Debug\Ex05.ReversedTicTacToe_Ui.pdb

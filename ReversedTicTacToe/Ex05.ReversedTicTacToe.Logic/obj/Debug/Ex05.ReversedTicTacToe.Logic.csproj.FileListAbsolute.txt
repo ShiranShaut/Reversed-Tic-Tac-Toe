@@ -1,0 +1,6 @@
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe.Logic\bin\Debug\Ex05.ReversedTicTacToe.Logic.dll.config
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe.Logic\bin\Debug\Ex05.ReversedTicTacToe.Logic.dll
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe.Logic\bin\Debug\Ex05.ReversedTicTacToe.Logic.pdb
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe.Logic\obj\Debug\Ex05.ReversedTicTacToe.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe.Logic\obj\Debug\Ex05.ReversedTicTacToe.Logic.dll
+C:\Users\Shiran Shaut\Desktop\Shiran\c#\מטלה 5\C17 Ex05 ShiranShaut 308018969 NoyDavidyan 308121227\Ex05.ReversedTicTacToe.Logic\obj\Debug\Ex05.ReversedTicTacToe.Logic.pdb
